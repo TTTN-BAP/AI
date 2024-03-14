@@ -1,1 +1,1 @@
-Evaluate resources: https://medium.com/@rishabhbhatia315/recommendation-system-evaluation-metrics-3f6739288870
+Evaluate resources
